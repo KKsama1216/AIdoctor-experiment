@@ -157,21 +157,6 @@ pytest tests/integration/
 3. Commit changes with descriptive messages
 4. Submit a pull request
 
-## License
-This project is licensed under the terms specified in the LICENSE file.
-
-## Citation
-If you use this code in your research, please cite:
-@article{yourcitation2024,
-title={Design and Implementation of an AI Medical Assistant with Retrieval-Augmented Generation and Graph-Based Reasoning},
-author={Your Name},
-year={2024}
-}
-## Contact
-For questions or issues, please:
-1. Check the documentation in `ppt_docx/`
-2. Open an issue in the repository
-3. Contact the maintainers directly
 
 ## Acknowledgements
 - MedQA dataset for evaluation

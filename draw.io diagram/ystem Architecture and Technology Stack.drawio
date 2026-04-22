@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="MPts8aM-iL58Y5naxb2w">
+    <mxGraphModel dx="1022" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mc-Xbl1R_S3y3Q3fh5v--2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" value="&lt;div style=&quot;&quot;&gt;&lt;b&gt;Programming &amp;amp; ML Framework&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;·Python 3.9+ (Primary Language)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;·PyTorch 2.0+(Deep Leaming)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;.Transformers Library (NLP)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;Orchestration &amp;amp; Workflow&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;*LangChain (Workflow Orchestration)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;·Gradio (Web Interface)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;Model Hub &amp;amp; Retrieval&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;*ModelScope &amp;amp; HuggingFace&lt;/div&gt;&lt;div style=&quot;&quot;&gt;*RAG (Retrieval-Augmented Generation)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;Knowledge Graph&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;.Neo4jGraph Database&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;Multi-modal interaction&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;.Whisper (Speech-to-Text)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Edge-TTS (Text-to-Speech)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;LLM Services&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;*OpenAI API&lt;/div&gt;&lt;div style=&quot;&quot;&gt;*ZhipuAI API&lt;/div&gt;" vertex="1">
+          <mxGeometry height="400" width="290" x="40" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mc-Xbl1R_S3y3Q3fh5v--3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="" vertex="1">
+          <mxGeometry height="400" width="300" x="340" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mc-Xbl1R_S3y3Q3fh5v--4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="User input&lt;div&gt;(Text &amp;amp; Speech)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="100" x="445" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="mc-Xbl1R_S3y3Q3fh5v--5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Processing Engine&lt;div&gt;(Hybrid Retrieval)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="110" x="440" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="mc-Xbl1R_S3y3Q3fh5v--6" edge="1" parent="1" source="mc-Xbl1R_S3y3Q3fh5v--4" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="mc-Xbl1R_S3y3Q3fh5v--5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="230" y="330" as="sourcePoint" />
+            <mxPoint x="280" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mc-Xbl1R_S3y3Q3fh5v--7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Al Response&lt;div&gt;(Multi-modal Output)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="120" x="510" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="mc-Xbl1R_S3y3Q3fh5v--8" edge="1" parent="1" source="mc-Xbl1R_S3y3Q3fh5v--7" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="mc-Xbl1R_S3y3Q3fh5v--5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="230" y="330" as="sourcePoint" />
+            <mxPoint x="280" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mc-Xbl1R_S3y3Q3fh5v--10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Knowledge Sources" vertex="1">
+          <mxGeometry height="50" width="120" x="370" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="mc-Xbl1R_S3y3Q3fh5v--11" edge="1" parent="1" source="mc-Xbl1R_S3y3Q3fh5v--5" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="mc-Xbl1R_S3y3Q3fh5v--10" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="230" y="330" as="sourcePoint" />
+            <mxPoint x="280" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mc-Xbl1R_S3y3Q3fh5v--12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;div&gt;Medical&lt;/div&gt;&lt;div&gt;Documents&lt;/div&gt;&lt;div&gt;(RAG)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="70" x="350" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="mc-Xbl1R_S3y3Q3fh5v--13" edge="1" parent="1" source="mc-Xbl1R_S3y3Q3fh5v--10" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="mc-Xbl1R_S3y3Q3fh5v--12" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="230" y="330" as="sourcePoint" />
+            <mxPoint x="280" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mc-Xbl1R_S3y3Q3fh5v--14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;div&gt;Knowledge&lt;/div&gt;&lt;div&gt;Graph&lt;/div&gt;&lt;div&gt;(Neo4j)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="70" x="450" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="mc-Xbl1R_S3y3Q3fh5v--15" edge="1" parent="1" source="mc-Xbl1R_S3y3Q3fh5v--10" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="mc-Xbl1R_S3y3Q3fh5v--14" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="230" y="330" as="sourcePoint" />
+            <mxPoint x="280" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

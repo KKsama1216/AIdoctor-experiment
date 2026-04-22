@@ -1,0 +1,12 @@
+Medical Question 2230:
+Question: How is migraine treated?
+
+Options:
+A. Option A: radiation, ibuprofen
+B. Option B: Incorrect option 1
+C. Option C: Incorrect option 2
+D. Option D: Incorrect option 3
+
+Correct Answer: radiation, ibuprofen
+
+Explanation: This is a simulated medical question about migraine for testing retrieval systems.

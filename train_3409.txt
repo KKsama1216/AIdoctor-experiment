@@ -1,0 +1,12 @@
+Medical Question 3410:
+Question: What are the symptoms of hypertension?
+
+Options:
+A. Option A: joint_pain, pain, fever
+B. Option B: Incorrect option 1
+C. Option C: Incorrect option 2
+D. Option D: Incorrect option 3
+
+Correct Answer: joint_pain, pain, fever
+
+Explanation: This is a simulated medical question about hypertension for testing retrieval systems.

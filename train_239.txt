@@ -1,0 +1,12 @@
+Medical Question 240:
+Question: What are the symptoms of pneumonia?
+
+Options:
+A. Option A: dizziness, joint_pain, cough
+B. Option B: Incorrect option 1
+C. Option C: Incorrect option 2
+D. Option D: Incorrect option 3
+
+Correct Answer: dizziness, joint_pain, cough
+
+Explanation: This is a simulated medical question about pneumonia for testing retrieval systems.

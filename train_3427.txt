@@ -1,0 +1,12 @@
+Medical Question 3428:
+Question: What causes hypertension?
+
+Options:
+A. Option A: Genetic factors, lifestyle, and environmental factors contribute to hypertension.
+B. Option B: Incorrect option 1
+C. Option C: Incorrect option 2
+D. Option D: Incorrect option 3
+
+Correct Answer: Genetic factors, lifestyle, and environmental factors contribute to hypertension.
+
+Explanation: This is a simulated medical question about hypertension for testing retrieval systems.

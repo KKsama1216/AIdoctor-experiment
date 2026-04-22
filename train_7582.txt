@@ -1,0 +1,12 @@
+Medical Question 7583:
+Question: What are the symptoms of pneumonia?
+
+Options:
+A. Option A: fatigue, joint_pain, chest_pain
+B. Option B: Incorrect option 1
+C. Option C: Incorrect option 2
+D. Option D: Incorrect option 3
+
+Correct Answer: fatigue, joint_pain, chest_pain
+
+Explanation: This is a simulated medical question about pneumonia for testing retrieval systems.

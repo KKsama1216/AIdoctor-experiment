@@ -1,0 +1,12 @@
+Medical Question 5644:
+Question: What are the symptoms of asthma?
+
+Options:
+A. Option A: nausea, pain, dizziness
+B. Option B: Incorrect option 1
+C. Option C: Incorrect option 2
+D. Option D: Incorrect option 3
+
+Correct Answer: nausea, pain, dizziness
+
+Explanation: This is a simulated medical question about asthma for testing retrieval systems.

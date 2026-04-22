@@ -1,0 +1,12 @@
+Medical Question 5578:
+Question: What are the symptoms of migraine?
+
+Options:
+A. Option A: nausea, joint_pain, shortness_of_breath
+B. Option B: Incorrect option 1
+C. Option C: Incorrect option 2
+D. Option D: Incorrect option 3
+
+Correct Answer: nausea, joint_pain, shortness_of_breath
+
+Explanation: This is a simulated medical question about migraine for testing retrieval systems.

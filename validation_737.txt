@@ -1,0 +1,12 @@
+Medical Question 8738:
+Question: What are the symptoms of asthma?
+
+Options:
+A. Option A: chest_pain, dizziness, joint_pain
+B. Option B: Incorrect option 1
+C. Option C: Incorrect option 2
+D. Option D: Incorrect option 3
+
+Correct Answer: chest_pain, dizziness, joint_pain
+
+Explanation: This is a simulated medical question about asthma for testing retrieval systems.

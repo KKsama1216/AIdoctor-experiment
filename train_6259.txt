@@ -1,0 +1,12 @@
+Medical Question 6260:
+Question: What causes influenza?
+
+Options:
+A. Option A: Genetic factors, lifestyle, and environmental factors contribute to influenza.
+B. Option B: Incorrect option 1
+C. Option C: Incorrect option 2
+D. Option D: Incorrect option 3
+
+Correct Answer: Genetic factors, lifestyle, and environmental factors contribute to influenza.
+
+Explanation: This is a simulated medical question about influenza for testing retrieval systems.

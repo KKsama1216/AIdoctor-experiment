@@ -1,0 +1,12 @@
+Medical Question 1729:
+Question: How is stroke treated?
+
+Options:
+A. Option A: physical_therapy, antivirals
+B. Option B: Incorrect option 1
+C. Option C: Incorrect option 2
+D. Option D: Incorrect option 3
+
+Correct Answer: physical_therapy, antivirals
+
+Explanation: This is a simulated medical question about stroke for testing retrieval systems.

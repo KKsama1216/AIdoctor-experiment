@@ -1,0 +1,12 @@
+Medical Question 9841:
+Question: What are the symptoms of asthma?
+
+Options:
+A. Option A: shortness_of_breath, joint_pain, pain
+B. Option B: Incorrect option 1
+C. Option C: Incorrect option 2
+D. Option D: Incorrect option 3
+
+Correct Answer: shortness_of_breath, joint_pain, pain
+
+Explanation: This is a simulated medical question about asthma for testing retrieval systems.

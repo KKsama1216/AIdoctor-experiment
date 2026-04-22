@@ -1,0 +1,12 @@
+Medical Question 77:
+Question: How is cancer treated?
+
+Options:
+A. Option A: physical_therapy, insulin
+B. Option B: Incorrect option 1
+C. Option C: Incorrect option 2
+D. Option D: Incorrect option 3
+
+Correct Answer: physical_therapy, insulin
+
+Explanation: This is a simulated medical question about cancer for testing retrieval systems.

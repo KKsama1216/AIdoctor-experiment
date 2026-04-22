@@ -1,0 +1,12 @@
+Medical Question 6392:
+Question: How is arthritis treated?
+
+Options:
+A. Option A: chemotherapy, ibuprofen
+B. Option B: Incorrect option 1
+C. Option C: Incorrect option 2
+D. Option D: Incorrect option 3
+
+Correct Answer: chemotherapy, ibuprofen
+
+Explanation: This is a simulated medical question about arthritis for testing retrieval systems.

@@ -1,0 +1,12 @@
+Medical Question 3832:
+Question: What are the symptoms of diabetes?
+
+Options:
+A. Option A: fever, dizziness, chest_pain
+B. Option B: Incorrect option 1
+C. Option C: Incorrect option 2
+D. Option D: Incorrect option 3
+
+Correct Answer: fever, dizziness, chest_pain
+
+Explanation: This is a simulated medical question about diabetes for testing retrieval systems.

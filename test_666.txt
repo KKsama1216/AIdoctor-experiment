@@ -1,0 +1,12 @@
+Medical Question 9667:
+Question: What are the symptoms of asthma?
+
+Options:
+A. Option A: pain, fatigue, fever
+B. Option B: Incorrect option 1
+C. Option C: Incorrect option 2
+D. Option D: Incorrect option 3
+
+Correct Answer: pain, fatigue, fever
+
+Explanation: This is a simulated medical question about asthma for testing retrieval systems.

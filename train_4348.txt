@@ -1,0 +1,12 @@
+Medical Question 4349:
+Question: How is influenza treated?
+
+Options:
+A. Option A: vaccination, aspirin
+B. Option B: Incorrect option 1
+C. Option C: Incorrect option 2
+D. Option D: Incorrect option 3
+
+Correct Answer: vaccination, aspirin
+
+Explanation: This is a simulated medical question about influenza for testing retrieval systems.

@@ -1,0 +1,12 @@
+Medical Question 3583:
+Question: What are the symptoms of influenza?
+
+Options:
+A. Option A: fatigue, nausea, joint_pain
+B. Option B: Incorrect option 1
+C. Option C: Incorrect option 2
+D. Option D: Incorrect option 3
+
+Correct Answer: fatigue, nausea, joint_pain
+
+Explanation: This is a simulated medical question about influenza for testing retrieval systems.

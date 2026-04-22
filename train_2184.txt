@@ -1,0 +1,12 @@
+Medical Question 2185:
+Question: What causes migraine?
+
+Options:
+A. Option A: Genetic factors, lifestyle, and environmental factors contribute to migraine.
+B. Option B: Incorrect option 1
+C. Option C: Incorrect option 2
+D. Option D: Incorrect option 3
+
+Correct Answer: Genetic factors, lifestyle, and environmental factors contribute to migraine.
+
+Explanation: This is a simulated medical question about migraine for testing retrieval systems.

@@ -1,0 +1,12 @@
+Medical Question 3696:
+Question: What are the symptoms of influenza?
+
+Options:
+A. Option A: headache, shortness_of_breath, fever
+B. Option B: Incorrect option 1
+C. Option C: Incorrect option 2
+D. Option D: Incorrect option 3
+
+Correct Answer: headache, shortness_of_breath, fever
+
+Explanation: This is a simulated medical question about influenza for testing retrieval systems.

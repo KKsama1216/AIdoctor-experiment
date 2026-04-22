@@ -1,0 +1,12 @@
+Medical Question 8164:
+Question: How is asthma treated?
+
+Options:
+A. Option A: insulin, antibiotics
+B. Option B: Incorrect option 1
+C. Option C: Incorrect option 2
+D. Option D: Incorrect option 3
+
+Correct Answer: insulin, antibiotics
+
+Explanation: This is a simulated medical question about asthma for testing retrieval systems.

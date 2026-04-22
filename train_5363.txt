@@ -1,0 +1,12 @@
+Medical Question 5364:
+Question: What are the symptoms of asthma?
+
+Options:
+A. Option A: pain, shortness_of_breath, nausea
+B. Option B: Incorrect option 1
+C. Option C: Incorrect option 2
+D. Option D: Incorrect option 3
+
+Correct Answer: pain, shortness_of_breath, nausea
+
+Explanation: This is a simulated medical question about asthma for testing retrieval systems.

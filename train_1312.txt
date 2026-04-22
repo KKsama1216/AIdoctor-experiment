@@ -1,0 +1,12 @@
+Medical Question 1313:
+Question: How is depression treated?
+
+Options:
+A. Option A: aspirin, physical_therapy
+B. Option B: Incorrect option 1
+C. Option C: Incorrect option 2
+D. Option D: Incorrect option 3
+
+Correct Answer: aspirin, physical_therapy
+
+Explanation: This is a simulated medical question about depression for testing retrieval systems.

@@ -1,0 +1,12 @@
+Medical Question 4864:
+Question: What are the symptoms of asthma?
+
+Options:
+A. Option A: cough, headache, shortness_of_breath
+B. Option B: Incorrect option 1
+C. Option C: Incorrect option 2
+D. Option D: Incorrect option 3
+
+Correct Answer: cough, headache, shortness_of_breath
+
+Explanation: This is a simulated medical question about asthma for testing retrieval systems.

@@ -1,0 +1,12 @@
+Medical Question 847:
+Question: What are the symptoms of cancer?
+
+Options:
+A. Option A: fatigue, shortness_of_breath, nausea
+B. Option B: Incorrect option 1
+C. Option C: Incorrect option 2
+D. Option D: Incorrect option 3
+
+Correct Answer: fatigue, shortness_of_breath, nausea
+
+Explanation: This is a simulated medical question about cancer for testing retrieval systems.

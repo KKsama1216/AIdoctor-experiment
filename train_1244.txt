@@ -1,0 +1,12 @@
+Medical Question 1245:
+Question: What are the symptoms of stroke?
+
+Options:
+A. Option A: fever, shortness_of_breath, pain
+B. Option B: Incorrect option 1
+C. Option C: Incorrect option 2
+D. Option D: Incorrect option 3
+
+Correct Answer: fever, shortness_of_breath, pain
+
+Explanation: This is a simulated medical question about stroke for testing retrieval systems.

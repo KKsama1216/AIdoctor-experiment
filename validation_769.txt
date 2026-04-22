@@ -1,0 +1,12 @@
+Medical Question 8770:
+Question: What are the symptoms of depression?
+
+Options:
+A. Option A: headache, chest_pain, fever
+B. Option B: Incorrect option 1
+C. Option C: Incorrect option 2
+D. Option D: Incorrect option 3
+
+Correct Answer: headache, chest_pain, fever
+
+Explanation: This is a simulated medical question about depression for testing retrieval systems.

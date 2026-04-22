@@ -1,0 +1,12 @@
+Medical Question 9581:
+Question: How is pneumonia diagnosed?
+
+Options:
+A. Option A: pneumonia is diagnosed through clinical evaluation and laboratory tests.
+B. Option B: Incorrect option 1
+C. Option C: Incorrect option 2
+D. Option D: Incorrect option 3
+
+Correct Answer: pneumonia is diagnosed through clinical evaluation and laboratory tests.
+
+Explanation: This is a simulated medical question about pneumonia for testing retrieval systems.

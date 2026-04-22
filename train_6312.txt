@@ -1,0 +1,12 @@
+Medical Question 6313:
+Question: What are the symptoms of arthritis?
+
+Options:
+A. Option A: shortness_of_breath, cough, pain
+B. Option B: Incorrect option 1
+C. Option C: Incorrect option 2
+D. Option D: Incorrect option 3
+
+Correct Answer: shortness_of_breath, cough, pain
+
+Explanation: This is a simulated medical question about arthritis for testing retrieval systems.

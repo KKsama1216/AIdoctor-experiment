@@ -1,0 +1,12 @@
+Medical Question 3060:
+Question: What are the symptoms of cancer?
+
+Options:
+A. Option A: joint_pain, headache, nausea
+B. Option B: Incorrect option 1
+C. Option C: Incorrect option 2
+D. Option D: Incorrect option 3
+
+Correct Answer: joint_pain, headache, nausea
+
+Explanation: This is a simulated medical question about cancer for testing retrieval systems.

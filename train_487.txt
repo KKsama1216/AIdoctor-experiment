@@ -1,0 +1,12 @@
+Medical Question 488:
+Question: How is influenza treated?
+
+Options:
+A. Option A: radiation, ibuprofen
+B. Option B: Incorrect option 1
+C. Option C: Incorrect option 2
+D. Option D: Incorrect option 3
+
+Correct Answer: radiation, ibuprofen
+
+Explanation: This is a simulated medical question about influenza for testing retrieval systems.

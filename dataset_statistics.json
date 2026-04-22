@@ -1,0 +1,10 @@
+{
+  "total_documents": 10000,
+  "avg_chars_per_doc": 408.1375,
+  "avg_words_per_doc": 58.6329,
+  "question_length_stats": {
+    "min": 19,
+    "max": 43,
+    "mean": 29.1409
+  }
+}

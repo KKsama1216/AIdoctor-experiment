@@ -1,0 +1,12 @@
+Medical Question 6955:
+Question: How is asthma diagnosed?
+
+Options:
+A. Option A: asthma is diagnosed through clinical evaluation and laboratory tests.
+B. Option B: Incorrect option 1
+C. Option C: Incorrect option 2
+D. Option D: Incorrect option 3
+
+Correct Answer: asthma is diagnosed through clinical evaluation and laboratory tests.
+
+Explanation: This is a simulated medical question about asthma for testing retrieval systems.

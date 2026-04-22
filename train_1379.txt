@@ -1,0 +1,12 @@
+Medical Question 1380:
+Question: What are the symptoms of stroke?
+
+Options:
+A. Option A: nausea, fever, chest_pain
+B. Option B: Incorrect option 1
+C. Option C: Incorrect option 2
+D. Option D: Incorrect option 3
+
+Correct Answer: nausea, fever, chest_pain
+
+Explanation: This is a simulated medical question about stroke for testing retrieval systems.

@@ -1,0 +1,12 @@
+Medical Question 3008:
+Question: What are the symptoms of pneumonia?
+
+Options:
+A. Option A: headache, fatigue, chest_pain
+B. Option B: Incorrect option 1
+C. Option C: Incorrect option 2
+D. Option D: Incorrect option 3
+
+Correct Answer: headache, fatigue, chest_pain
+
+Explanation: This is a simulated medical question about pneumonia for testing retrieval systems.

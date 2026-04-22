@@ -1,0 +1,12 @@
+Medical Question 4423:
+Question: What are the symptoms of cancer?
+
+Options:
+A. Option A: dizziness, shortness_of_breath, fever
+B. Option B: Incorrect option 1
+C. Option C: Incorrect option 2
+D. Option D: Incorrect option 3
+
+Correct Answer: dizziness, shortness_of_breath, fever
+
+Explanation: This is a simulated medical question about cancer for testing retrieval systems.

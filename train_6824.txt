@@ -1,0 +1,12 @@
+Medical Question 6825:
+Question: How is influenza diagnosed?
+
+Options:
+A. Option A: influenza is diagnosed through clinical evaluation and laboratory tests.
+B. Option B: Incorrect option 1
+C. Option C: Incorrect option 2
+D. Option D: Incorrect option 3
+
+Correct Answer: influenza is diagnosed through clinical evaluation and laboratory tests.
+
+Explanation: This is a simulated medical question about influenza for testing retrieval systems.

@@ -1,0 +1,12 @@
+Medical Question 5275:
+Question: What are the symptoms of depression?
+
+Options:
+A. Option A: cough, joint_pain, dizziness
+B. Option B: Incorrect option 1
+C. Option C: Incorrect option 2
+D. Option D: Incorrect option 3
+
+Correct Answer: cough, joint_pain, dizziness
+
+Explanation: This is a simulated medical question about depression for testing retrieval systems.

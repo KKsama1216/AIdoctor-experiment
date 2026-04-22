@@ -1,0 +1,12 @@
+Medical Question 3087:
+Question: How is stroke treated?
+
+Options:
+A. Option A: radiation, chemotherapy
+B. Option B: Incorrect option 1
+C. Option C: Incorrect option 2
+D. Option D: Incorrect option 3
+
+Correct Answer: radiation, chemotherapy
+
+Explanation: This is a simulated medical question about stroke for testing retrieval systems.

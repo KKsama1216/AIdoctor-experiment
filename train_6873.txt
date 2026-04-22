@@ -1,0 +1,12 @@
+Medical Question 6874:
+Question: How is pneumonia treated?
+
+Options:
+A. Option A: chemotherapy, aspirin
+B. Option B: Incorrect option 1
+C. Option C: Incorrect option 2
+D. Option D: Incorrect option 3
+
+Correct Answer: chemotherapy, aspirin
+
+Explanation: This is a simulated medical question about pneumonia for testing retrieval systems.
